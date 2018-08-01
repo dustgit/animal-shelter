@@ -1,10 +1,20 @@
+body {
+  background-color: #ddcc6b;
+}
 h1 {
  font-family: 'Pacifico', cursive;
  text-align: center;
+ background-color: #ddcc6b;
+
+
 }
 
 .homepage {
-  border: 2px solid red;
+  border: 2px solid green;
   padding: 4px;
   margin: 12px;
+}
+.column {
+  width: 100px;
+  float: left;
 }
